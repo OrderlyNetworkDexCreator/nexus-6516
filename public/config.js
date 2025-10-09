@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Nexus",
   "VITE_SEO_SITE_DESCRIPTION": "true decentralise dex with full transparency",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/nexus-6516/",
+  "VITE_SEO_SITE_URL": "https://nexus.nv",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
